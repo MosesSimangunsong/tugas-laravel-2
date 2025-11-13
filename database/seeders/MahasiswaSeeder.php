@@ -12,7 +12,7 @@ class MahasiswaSeeder extends Seeder
     {
         
         Mahasiswa::create([
-            'foto' => 'resources/img/Foto.jpg',
+            'foto' => 'img/Foto.jpg',
             'nim' => '11S23011',
             'user_name' => 'Moses Simangunsong',
             'email_akademik' => '11s23011@del.ac.id',
